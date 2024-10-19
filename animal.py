@@ -2,6 +2,7 @@ import sys
 
 def default():
     print ('Hello')
+    print('world')
 
 def main():
     default()
